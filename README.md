@@ -3,7 +3,7 @@
 A Quadtree Implementation in Python.
 
 
-## Instructions:
+### Instructions:
 
 Requires Pillow, which can be install via pip with
 ```

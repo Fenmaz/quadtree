@@ -1,4 +1,4 @@
 *.txt
-*.png
 .idea/
 __pycache__/
+.vs/
